@@ -1,2 +1,2 @@
-# Short-Reddit-CRUD
+# Short Reddit CRUD
 Crud simples em JavaScript CLI
